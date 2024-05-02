@@ -27,7 +27,11 @@
 - Fetch data for trailer video
 - Update store with trailer video data
 - Embedded the youtube video and make it auto play and mute
-- 
+- Built the secondary component
+- build Movie list
+- Build movie card
+- usePopular custom hook
+ 
 
 
 # Features
